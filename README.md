@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cooldragon12
 - 👀 I’m interested in Web Development, Programming, UI/UX Design
+- 🌱 Python, Django Framework is what I use to
 - 🌱 I’m currently learning React JS, Javascript AJAX, Swift
 
 
