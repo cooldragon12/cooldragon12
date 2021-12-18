@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React JS, Javascript AJAX, Swift
 
 - Here's my simple portfolio
-https://cooldragon12.github.io/protfolio-je-react/
+https://johndelencabo.online
 <!---
 cooldragon12/cooldragon12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
