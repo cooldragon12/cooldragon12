@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Programming, UI/UX Design
 - 🌱 Python, Django Framework is what I use to
 - 🌱 I’m currently learning React JS, Javascript AJAX, Swift
-
+- Currently have 5 projects
 - Here's my simple portfolio
 https://johndelencabo.online
 <!---
