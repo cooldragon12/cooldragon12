@@ -2,6 +2,7 @@
 ### 👋 Hi, I’m Johndel aka [@cooldragon12](!https://johndelencabo.online)!
 - 👀 I’m interested in Web Development, Programming, UI/UX Design
 - 🌱 Currently improving my skill in React JS, Javascript, and Django
+- Getting ready to learn Next.js
 - 🥅 2022 Goals: <ul>
     <li>Join in Code Competition</li>
     <li>Collab with other coders</li>
