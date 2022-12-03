@@ -5,7 +5,7 @@
 - Getting ready to learn Next.js
 - 🥅 2022 Goals: <ul>
     <li>Join in Code Competition</li>
-    <li>Collab with other coders</li>
+    <li>Collab with other coders ✅</li>
     <li>Complete the Portfolio</li>
 </ul>
 
