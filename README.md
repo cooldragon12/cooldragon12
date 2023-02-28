@@ -1,5 +1,7 @@
 # ABOUT ME
 ### 👋 Hi, I’m Johndel aka [@cooldragon12](!https://johndelencabo.online)!
+As a part-time backend developer, I specialize in building robust web applications using Django Framework and REST API. I am currently pursuing a degree in Computer Science with a specialization in Intelligent Systems, I am passionate about developing innovative solutions that leverage the latest technologies and constantly strive to advance my skills. As a researcher, I enjoy learning about new technologies and exploring the latest trends in the field.
+
 - 👀 I’m interested in Web Development, Programming, UI/UX Design
 - 🌱 Currently improving my skill in React JS, Javascript, and Django
 - Getting ready to learn Next.js
