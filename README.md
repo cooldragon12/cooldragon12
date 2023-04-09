@@ -14,10 +14,12 @@ As a part-time backend developer, I specialize in building robust web applicatio
 - JavaScript
 - Django
 
-### 🥅 2022 Goals
+### 🥅 2023 Goals
 
 - Participate in a Code Competition
 - Collaborate with other coders
+- Learn More about Machine Learning
+- Create a ML Model
 - Complete my portfolio
 
 ### 🎞 Work
