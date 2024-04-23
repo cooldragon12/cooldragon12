@@ -6,7 +6,6 @@ As a part-time backend developer, I specialize in building robust web applicatio
 
 - Web Development
 - Programming
-- UI/UX Design
 
 ### 🌱 Currently Learning
 
