@@ -6,9 +6,6 @@ As a part-time Python developer, I specialize in building robust web application
 
 - Web Development
 - Programming
-
-### 🌱 Currently Learning
-
 - React JS
 - JavaScript
 - Django
